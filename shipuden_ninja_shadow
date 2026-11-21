@@ -1,5 +1,5 @@
 {
-  "ads_enabled": false,
+  "ads_enabled": true,
   "open_app_id": "ca-app-pub-6658570461438784/5473547786",
   "is_open_app_enabled": true,
   "interstitial_id": "ca-app-pub-6658570461438784/2721678785",
