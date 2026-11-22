@@ -1,5 +1,5 @@
 {
-  "ads_enabled": false,
+  "ads_enabled": true,
   "admob_app_open": "ca-app-pub-6658570461438784/7001186211",
   "admob_interstitial": "ca-app-pub-6658570461438784/8130662998",
   "admob_rewarded": "ca-app-pub-6658570461438784/9392827090",
