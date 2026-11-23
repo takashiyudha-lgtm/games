@@ -1,0 +1,23 @@
+{
+  "app_name": "MMA Simulator",
+  "package_name": "com.banadev.nobione",
+  "ads_enabled": true,
+  "admob_app_open": "ca-app-pub-3940256099942544/9257395921",
+  "admob_interstitial": "ca-app-pub-3940256099942544/1033173712",
+  "admob_rewarded": "ca-app-pub-3940256099942544/5224354917",
+  "admob_native": "ca-app-pub-3940256099942544/2247696110",
+  "interstitial_cooldown_seconds": 45,
+  "interstitial_fight_interval": 1,
+  "native_interval_seconds": 60,
+  "app_open_interval_seconds": 180,
+  "more_apps_json_url": "https://raw.githubusercontent.com/takashiyudha-lgtm/crosslink/refs/heads/main/more_games",
+  "house_ad": {
+    "enabled": true,
+    "title": "Block Smash: Neon Puzzle",
+    "subtitle": "Relax with glowing 8x8 offline puzzles!",
+    "image_url": "https://github.com/takashiyudha-lgtm/crosslink/blob/main/promo_block_smash.jpg?raw=true",
+    "target_url": "https://play.google.com/store/apps/details?id=com.banadev.brokenscreen",
+    "cta_text": "PLAY FREE"
+  }
+  }
+}
