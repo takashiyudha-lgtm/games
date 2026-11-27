@@ -1,0 +1,56 @@
+{
+  "ads_enabled": true,
+  "use_test_ids": true,
+  "admob": {
+    "app_open_id": "ca-app-pub-3940256099942544/9257395921",
+    "banner_id": "ca-app-pub-3940256099942544/6300978111",
+    "interstitial_id": "ca-app-pub-3940256099942544/1033173712",
+    "rewarded_id": "ca-app-pub-3940256099942544/5224354917"
+  },
+  "rules": {
+    "show_app_open_on_start": true,
+    "show_banner_in_gym": true,
+    "hide_banner_in_fight": true,
+    "interstitial_every_n_fights": 2,
+    "interstitial_cooldown_sec": 120,
+    "max_free_rewarded_refills_per_day": 5
+  },
+  "house_ad": {
+    "enabled": true,
+    "title": "Pro Ninja Shadow 2027",
+    "subtitle": "Aksi Ninja Retro 2D Offline - Gratis!",
+    "cta_text": "MAIN SEKARANG",
+    "package_id": "com.banadev.ninjabrawl",
+    "accent_hex": "#E53935"
+  },
+  "crosslink_apps": [
+    {
+      "title": "Pro Ninja Shadow 2027",
+      "tagline": "Pertarungan Ninja Offline Seru",
+      "package_id": "com.banadev.ninjabrawl",
+      "badge": "HOT"
+    },
+    {
+      "title": "Block Smash Puzzle",
+      "tagline": "Asah Otak Santai Tanpa Kuota",
+      "package_id": "com.banadev.brokenscreen",
+      "badge": "NEW"
+    },
+    {
+      "title": "MintScope Coin ID",
+      "tagline": "Identifikasi Koin Langka Cepat",
+      "package_id": "com.banadev.amber.orbit",
+      "badge": "TOP"
+    },
+    {
+      "title": "DocFlow PDF Scanner",
+      "tagline": "Scan Dokumen & PDF Instan",
+      "package_id": "com.banadev.studio.docflow",
+      "badge": "TOOL"
+    }
+  ],
+  "links": {
+    "privacy_policy_url": "https://sites.google.com/view/banadev-privacy-policy",
+    "developer_store_url": "https://play.google.com/store/apps/dev?id=banadev"
+  }
+}
